@@ -1,7 +1,7 @@
-## About Me
+## 🙂 Pradnesh Sanderan
 
 Computer Science student with a keen interest for software engineering, artificial intelligence, web and mobile app development
-### Markdown
+### Technical Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
