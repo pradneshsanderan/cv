@@ -29,22 +29,22 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Technical Skills
 ### Languages
-Java
-Python
-Haskell
-Javascript
-HTML/CSS
+Java 
+Python 
+Haskell 
+Javascript 
+HTML/CSS 
 
 ### Frameworks/Tools
-React
-React Native
-Android Studio
-Git
-Fire
+React 
+React Native 
+Android Studio 
+Git 
+FireBase
 
 ### Others
-Adobe Suite
-Microsoft office suite
+Adobe Suite 
+Microsoft office suite 
 Lego Mindstorms Robotics
 
 
@@ -56,6 +56,7 @@ Bsc Computer Science
 
 ### Help Academy (2018-2019)
 A-Levels / Sixth Form/ Pre-University
+<br>
 4A ( Physics, Mathematics, Further Mathematics, Chemistry)
 
 
