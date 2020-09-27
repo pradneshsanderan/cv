@@ -30,9 +30,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## Technical Skills
 ### Languages
 Java 
+<br>
 Python 
+<br>
 Haskell 
-Javascript 
+<br>
+Javascript <br>
 HTML/CSS 
 
 ### Frameworks/Tools
