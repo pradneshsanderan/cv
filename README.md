@@ -1,6 +1,8 @@
 ## 🙂 Pradnesh Sanderan
 
 Computer Science student with a keen interest for software engineering, artificial intelligence, web and mobile app development
+
+[Email](mailto:pradneshsanderan@gmail.com) / [Website](https://pradneshsanderan.github.io/pradneshsanderan/) / [LinkedIn](https://www.linkedin.com/in/pradnesh-sanderan-70b24b19a/) / [GitHub](https://github.com/pradneshsanderan) 
 ### Technical Experience
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
