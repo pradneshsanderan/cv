@@ -27,9 +27,27 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Technical Skills
+### Languages
+Java
+Python
+Haskell
+Javascript
+HTML/CSS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pradneshsanderan/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Frameworks/Tools
+React
+React Native
+Android Studio
+Git
+Fire
+
+### Others
+Adobe Suite
+Microsoft office suite
+Lego Mindstorms Robotics
+
+
 
 ## Education
 
