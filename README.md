@@ -33,10 +33,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Education
 
-### `The University of Edinburgh` ( 2018-2019)
+### The University of Edinburgh ( 2018-2019)
 Bsc Computer Science
 
-### `Help Academy` (2018-2019)
+### Help Academy (2018-2019)
 A-Levels / Sixth Form/ Pre-University
 4A ( Physics, Mathematics, Further Mathematics, Chemistry)
 
