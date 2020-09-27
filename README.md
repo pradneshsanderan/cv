@@ -29,26 +29,23 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Technical Skills
 ### Languages
-Java 
-<br>
-Python 
-<br>
-Haskell 
-<br>
+Java <br>
+Python <br>
+Haskell <br>
 Javascript <br>
 HTML/CSS 
 
 ### Frameworks/Tools
-React 
-React Native 
-Android Studio 
-Git 
+React <br>
+React Native <br>
+Android Studio <br>
+Git <br>
 FireBase
 
 ### Others
-Adobe Suite 
-Microsoft office suite 
-Lego Mindstorms Robotics
+Adobe Suite <br>
+Microsoft office suite <br>
+Lego Mindstorms Robotics<br>
 
 
 
