@@ -48,6 +48,11 @@ Microsoft office suite <br>
 Lego Mindstorms Robotics<br>
 
 
+## Languages
+English
+Malay Language
+Tamil  
+
 
 ## Education
 
