@@ -3,7 +3,7 @@
 Computer Science student with a keen interest for software engineering, artificial intelligence, web and mobile app development
 
 [Email](mailto:pradneshsanderan@gmail.com) / [Website](https://pradneshsanderan.github.io/pradneshsanderan/) / [LinkedIn](https://www.linkedin.com/in/pradnesh-sanderan-70b24b19a/) / [GitHub](https://github.com/pradneshsanderan) 
-## Experience
+## 🧠Experience
 ### Technical Experience
 
 ### Others
@@ -56,7 +56,7 @@ built a tourist app on android studio that recommends activities based on the cu
 ### Sudoku Solver
 
 
-## 👄 Languages
+## 👈🤞✊☝ Languages
 English
 Malay Language
 Tamil  
