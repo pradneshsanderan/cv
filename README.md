@@ -3,8 +3,13 @@
 Computer Science student with a keen interest for software engineering, artificial intelligence, web and mobile app development
 
 [Email](mailto:pradneshsanderan@gmail.com) / [Website](https://pradneshsanderan.github.io/pradneshsanderan/) / [LinkedIn](https://www.linkedin.com/in/pradnesh-sanderan-70b24b19a/) / [GitHub](https://github.com/pradneshsanderan) 
+## Experience
+### Technical Experience
 
-## Technical Experience
+### Others
+#### Volunteer Teacher at a chidrens' home
+
+#### Co-founder of a soup kitchen
 
 ## 💻 Technical Skills
 ### Languages
