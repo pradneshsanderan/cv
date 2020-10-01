@@ -26,6 +26,12 @@ Adobe Suite <br>
 Microsoft office suite <br>
 Lego Mindstorms Robotics<br>
 
+## Soft Skills
+-Team player
+-Responsible
+-critical thinking
+
+
 ## 🎉 Achievements
 ### Hack the burgh 2020
 Won second place place in the AMD Challenge by building a tourist app on android studio that recommends activities based on the current weather
