@@ -8,8 +8,14 @@ Computer Science student with a keen interest for software engineering, artifici
 
 ### Others
 #### Volunteer Teacher at a chidrens' home
-
+Taught children aged 9 to 12 Science and English every Friday for a
+year
 #### Co-founder of a soup kitchen
+Co-founded a soup kitchen in 2013 where we pack and
+serve food to the homeless in Kuala Lumpur each month
+#### Animal Shelter Volunteer
+Volunteered at an Animal Shelter in Kuala Lumpur where I was incharge of cleaning the kennels of the dogs and feeding the puppies
+
 
 ## 💻 Technical Skills
 ### Languages
