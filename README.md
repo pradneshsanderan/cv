@@ -41,6 +41,11 @@ Lego Mindstorms Robotics<br>
 ### Hack the burgh 2020
 Won second place place in the AMD Challenge by building a tourist app on android studio that recommends activities based on the current weather
 
+##Notable Projects
+###In-Sight
+built a tourist app on android studio that recommends activities based on the current weather by using weather APIs and the google location and google cloud API
+###Covid-19 statictics
+###Sudoku Solver
 
 ## 👄 Languages
 English
