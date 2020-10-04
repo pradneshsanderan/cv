@@ -6,7 +6,7 @@ Computer Science student with a keen interest for software engineering, artifici
 ## 🧠Experience
 ### Technical Experience
 
-### Others
+### 🙏Others
 #### Volunteer Teacher at a chidrens' home
 Taught children aged 9 to 12 Science and English every Friday for a
 year
@@ -39,8 +39,11 @@ Lego Mindstorms Robotics<br>
 
 ## Soft Skills
 -Team player
+<br>
 -Responsible
+<br>
 -critical thinking
+<br>
 
 
 ## 🎉 Achievements
