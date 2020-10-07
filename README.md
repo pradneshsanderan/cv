@@ -4,6 +4,7 @@ Computer Science student with a keen interest for software engineering, artifici
 
 [Email](mailto:pradneshsanderan@gmail.com) / [Website](https://pradneshsanderan.github.io/pradneshsanderan/) / [LinkedIn](https://www.linkedin.com/in/pradnesh-sanderan-70b24b19a/) / [GitHub](https://github.com/pradneshsanderan) 
 ## 🧠Experience
+
 ### Technical Experience
 
 ### 🙏Others
@@ -53,6 +54,9 @@ Won second place place in the AMD Challenge by building a tourist app on android
 ## Notable Projects
 ### In-Sight
 built a tourist app on android studio that recommends activities based on the current weather by using weather APIs and the google location and google cloud API
+<br>
+### Textbook Study assistant
+
 
 ### Covid-19 statictics
 
