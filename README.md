@@ -59,7 +59,9 @@ built a web app that scans images for scientifically related words and then scra
 
 ### Covid-19 statictics
 built a web app with React Js that displays covid =19 statistics by country that are updated daily
+
 ### Sudoku Solver
+built a program on java that is able to solve sudoku puzzles that have been  inputted into the program
 
 
 ## 👈🤞✊☝ Languages
