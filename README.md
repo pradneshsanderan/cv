@@ -53,6 +53,7 @@ Won second place place in the AMD Challenge by building a tourist app on android
 ## Notable Projects
 ### In-Sight
 built a tourist app on android studio that recommends activities based on the current weather by using weather APIs and the google location and google cloud API
+built with : android studio, google cloud
 <br>
 ### Textbook Study assistant
 built a web app that scans images for scientifically related words and then scraps the web with beautifulsoup and returns relavent information. the informations returned can then be synthesized to audio with the help of amazon web services
