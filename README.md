@@ -65,10 +65,13 @@ built a web app with React Js that displays covid-19 statistics by country that 
 <br>
 
 ## 👈🤞✊☝ Languages
+<br>
 English
+<br>
 Malay Language
+<br>
 Tamil  
-
+<br>
 
 ## 🎓 Education
 
