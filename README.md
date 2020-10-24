@@ -56,13 +56,13 @@ built a tourist app on android studio that recommends activities based on the cu
 <br>
 ### Textbook Study assistant
 built a web app that scans images for scientifically related words and then scraps the web with beautifulsoup and returns relavent information. the informations returned can then be synthesized to audio with the help of amazon web services
-
+<br>
 ### Covid-19 statictics
-built a web app with React Js that displays covid =19 statistics by country that are updated daily
-
+built a web app with React Js that displays covid-19 statistics by country that are updated daily
+<br>
 ### Sudoku Solver
-built a program on java that is able to solve sudoku puzzles that have been  inputted into the program
-
+ I had built a program on java that is able to solve sudoku puzzles that have been  inputted into the program
+<br>
 
 ## 👈🤞✊☝ Languages
 English
