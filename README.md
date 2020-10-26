@@ -64,6 +64,8 @@ built with: java,python(beautifulsoup),HTML,CSS
 ### Covid-19 statictics
 built a web app with React Js that displays covid-19 statistics by country that are updated daily
 <br>
+built with: ReactJs, HTML,CSS
+<br>
 ### Sudoku Solver
  I had built a program on java that is able to solve sudoku puzzles that have been  inputted into the program
 <br>
