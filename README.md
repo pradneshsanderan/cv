@@ -69,6 +69,8 @@ built with: ReactJs, HTML,CSS
 ### Sudoku Solver
  I had built a program on java that is able to solve sudoku puzzles that have been  inputted into the program
 <br>
+built with: java
+<br>
 
 ## 👈🤞✊☝ Languages
 <br>
