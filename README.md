@@ -92,3 +92,4 @@ A-Levels / Sixth Form/ Pre-University
 4A ( Physics, Mathematics, Further Mathematics, Chemistry)
 
 ### Methodist Boys' Secondary School Kuala Lumpur
+School Leavers Certificate(SPM)
