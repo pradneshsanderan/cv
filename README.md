@@ -93,3 +93,5 @@ A-Levels / Sixth Form/ Pre-University
 
 ### Methodist Boys' Secondary School Kuala Lumpur
 School Leavers Certificate(SPM)
+<br>
+7A+ 2A 1B+
