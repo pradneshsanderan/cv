@@ -4,6 +4,22 @@ Computer Science student with a keen interest for software engineering, artifici
 
 [Email](mailto:pradneshsanderan@gmail.com) / [Website](https://pradneshsanderan.github.io/pradneshsanderan/) / [LinkedIn](https://www.linkedin.com/in/pradneshsanderan/)
 
+## 🎓 Education
+
+### The University of Edinburgh ( 2018-2019)
+Bsc Computer Science
+
+### Help Academy (2018-2019)
+A-Levels / Sixth Form/ Pre-University
+<br>
+4A ( Physics, Mathematics, Further Mathematics, Chemistry)
+
+### Methodist Boys' Secondary School Kuala Lumpur
+School Leavers Certificate(SPM)
+<br>
+7A+ 2A 1B+( English,History,Literature in English,Physics,Mathematics,Chemistry,Additional Mathematics, Biology,Malay language,Moral Studies)
+
+
 ## Technical Experience
 
 ## 🙏Other Experience
@@ -81,17 +97,3 @@ Malay Language
 Tamil  
 <br>
 
-## 🎓 Education
-
-### The University of Edinburgh ( 2018-2019)
-Bsc Computer Science
-
-### Help Academy (2018-2019)
-A-Levels / Sixth Form/ Pre-University
-<br>
-4A ( Physics, Mathematics, Further Mathematics, Chemistry)
-
-### Methodist Boys' Secondary School Kuala Lumpur
-School Leavers Certificate(SPM)
-<br>
-7A+ 2A 1B+( English,History,Literature in English,Physics,Mathematics,Chemistry,Additional Mathematics, Biology,Malay language,Moral Studies)
