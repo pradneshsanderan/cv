@@ -6,7 +6,7 @@ Computer Science student with a keen interest for software engineering, artifici
 
 ## 🎓 Education
 
-### The University of Edinburgh ( 2018-2019)
+### The University of Edinburgh ( 2019-2023)
 Bsc Computer Science
 
 ### Help Academy (2018-2019)
