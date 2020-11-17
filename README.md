@@ -21,7 +21,11 @@ School Leavers Certificate(SPM)
 
 
 ## Technical Experience
-
+#### Tutor  (The University of Edinburgh)
+Led weekly tutorial groups consisting of first year and second year students for the computational logic part, for the course,
+Informatics1-Introduction to Computation, through tutorial sheets provided by the lecturers
+ <br>
+ <br>
 ## 🙏Other Experience
 #### Volunteer Teacher at a chidrens' home
 Taught children aged 9 to 12 Science and English every Friday for a
@@ -61,6 +65,14 @@ Lego Mindstorms Robotics<br>
 -critical thinking
 <br>
 
+## 👈🤞✊☝ Languages
+<br>
+English
+<br>
+Malay Language
+<br>
+Tamil  
+<br>
 
 ## 🎉 Achievements
 ### Hack the burgh 2020
@@ -88,12 +100,5 @@ built with: ReactJs, HTML,CSS
 built with: java
 <br>
 
-## 👈🤞✊☝ Languages
-<br>
-English
-<br>
-Malay Language
-<br>
-Tamil  
-<br>
+
 
