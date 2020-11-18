@@ -20,13 +20,13 @@ School Leavers Certificate(SPM)
 7A+ 2A 1B+( English,History,Literature in English,Physics,Mathematics,Chemistry,Additional Mathematics, Biology,Malay language,Moral Studies)
 
 
-## Technical Experience
+## Experience
 #### Tutor  (The University of Edinburgh)
 Led weekly tutorial groups consisting of first year and second year students for the computational logic part, for the course,
 Informatics1-Introduction to Computation, through tutorial sheets provided by the lecturers
  <br>
  <br>
-## 🙏Other Experience
+## Volunteer Experience
 #### Volunteer Teacher at a chidrens' home
 Taught children aged 9 to 12 Science and English every Friday for a
 year
