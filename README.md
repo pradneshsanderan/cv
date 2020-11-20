@@ -57,7 +57,7 @@ Adobe Suite <br>
 Microsoft office suite <br>
 Lego Mindstorms Robotics<br>
 
-## Soft Skills
+## 💪Soft Skills
 -Team player
 <br>
 -Responsible
